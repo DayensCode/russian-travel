@@ -6,20 +6,20 @@
 	align-items: center;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1152px) {
 	.header {
 	max-width: 928px;
 	}
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 896px) {
 	.header {
 	max-width: 720px;
 	margin: 28px 48px 0;
 	}
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 544px) {
 	.header {
 	max-width: 288px;
 	margin: 16px 16px 0;

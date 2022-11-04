@@ -2,7 +2,7 @@
 	margin: 0;
 	color: #FFFFFF;
 	max-width: 460px;
-	font-family: 'Inter';
+	font-family: 'Inter', Arial, sans-serif;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 72px;
@@ -10,13 +10,13 @@
 	text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1152px) {
 	.place__title {
 	max-width: 440px;
 	}
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 896px) {
 	.place__title {
 	max-width: 340px;
 	font-size: 42px;
@@ -24,7 +24,7 @@
 	}
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 544px) {
 	.place__title {
 	margin-left: 16px;
 	font-size: 32px;

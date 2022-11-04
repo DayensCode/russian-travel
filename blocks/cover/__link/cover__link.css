@@ -1,4 +1,5 @@
 .cover__link {
+	margin-top: 92px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -16,22 +17,23 @@
 	z-index: 1;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1152px) {
 	.cover__link {
 	min-height: 640px;
 	}
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 896px) {
 	.cover__link {
 	min-height: 480px;
+	margin-top: 90px;
 	}
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 544px) {
 	.cover__link {
 	min-height: 200px;
-	margin: 0 auto;
+	margin-top: 66px;
 	}
 }
 

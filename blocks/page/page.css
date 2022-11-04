@@ -10,19 +10,19 @@
 	margin: 0 auto;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1152px) {
 	.page {
 	max-width: 1024px;
 	}
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 896px) {
 	.page {
 	max-width: 768px;
 	}
 }
 
-	@media screen and (max-width: 568px) {
+	@media screen and (max-width: 544px) {
 	.page {
 	max-width: 320px;
 	}

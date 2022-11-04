@@ -2,7 +2,7 @@
 	margin: 0 auto;
 	color: #FFFFFF;
 	max-width: 720px;
-	font-family: 'Inter';
+	font-family: 'Inter', Arial, sans-serif;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 96px;
@@ -11,7 +11,7 @@
 	text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 544px) {
 	.lead__title {
 	max-width: 288px;
 	font-size: 40px;
