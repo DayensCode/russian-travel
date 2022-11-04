@@ -1,6 +1,6 @@
 .page {
 	font-family: 'Inter', Arial, sans-serif;
-	width: 1280px;
+	max-width: 1280px;
 	min-height: 100vh;
 	padding-top: 28px;
 	padding-bottom: 24px;
