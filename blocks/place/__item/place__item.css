@@ -1,0 +1,10 @@
+.place__item {
+	margin: 0;
+	align-self: end;
+}
+
+@media screen and (max-width: 586px){
+	.place__item {
+	align-self: start;
+	}
+}

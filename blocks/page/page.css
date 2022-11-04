@@ -1,7 +1,6 @@
 .page {
 	font-family: 'Inter', Arial, sans-serif;
-	min-width: 320px;
-	max-width: 1280px;
+	width: 1280px;
 	min-height: 100vh;
 	padding-top: 28px;
 	padding-bottom: 24px;
@@ -10,4 +9,24 @@
 	display: flex;
 	flex-direction: column;
 	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 1124px) {
+	.page {
+	max-width: 1024px;
+	padding: 0;
+	}
+}
+
+@media screen and (max-width: 984px) {
+	.page {
+	max-width: 768px;
+	}
+}
+
+	@media screen and (max-width: 568px) {
+	.page {
+	max-width: 320px;
+	}
 }

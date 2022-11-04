@@ -3,6 +3,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	max-width: 1280px;
 	min-height: 740px;
 	color: #FFFFFF;
 	text-decoration: none;
@@ -34,6 +35,7 @@
 	.cover__link {
 	max-width: 320px;
 	min-height: 200px;
+	margin: 0 auto;
 	}
 }
 
