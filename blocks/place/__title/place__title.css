@@ -8,6 +8,7 @@
 	font-size: 72px;
 	line-height: 1.06;
 	text-rendering: optimizeLegibility;
+	align-self: end;
 }
 
 @media screen and (max-width: 1152px) {
@@ -29,5 +30,6 @@
 	margin-left: 16px;
 	font-size: 32px;
 	line-height: 1.09;
+	align-self: start;
 	}
 }
