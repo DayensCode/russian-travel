@@ -8,26 +8,26 @@
 
 @media screen and (max-width: 1152px) {
 	.photo-grid {
-	max-width: 928px;
-	grid-template-columns: repeat(3, minmax(min-content, max-content));
-	gap: 14px;
+		 max-width: 928px;
+		 grid-template-columns: repeat(3, minmax(min-content, max-content));
+		 gap: 14px;
 	}
 }
 
 @media screen and (max-width: 896px) {
 	.photo-grid {
-	max-width: 720px;
-	grid-template-columns: repeat(2, minmax(min-content, max-content));
-	gap: 16px;
-	margin: 88px auto 0;
+		 max-width: 720px;
+		 grid-template-columns: repeat(2, minmax(min-content, max-content));
+		 gap: 16px;
+		 margin: 88px auto 0;
 	}
 }
 
 @media screen and (max-width: 544px) {
 	.photo-grid {
-	max-width: 288px;
-	grid-template-columns: repeat(1, minmax(min-content, max-content));
-	gap: 12px;
-	margin: 64px auto 0;
+		 max-width: 288px;
+		 grid-template-columns: repeat(1, minmax(min-content, max-content));
+		 gap: 12px;
+		 margin: 64px auto 0;
 	}
 }
