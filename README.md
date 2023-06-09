@@ -12,7 +12,7 @@ https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mob
 
 ### Ссылка на проект
 
-https://dayenscode.github.io/russian-travel
+https://dayenscode.github.io/russian-travel/
 
 ## Используемые языки
 
@@ -25,6 +25,7 @@ https://dayenscode.github.io/russian-travel
 - открыть с помощью Live Server, либо из локального репозитория
 
 ## Процесс создания
+
 Была осуществлена адаптивная дизайн-верстка по макету из Figma (desktop first). Проведена оптимизация картинок через онлайн-сервис [tinypng.com](https://tinypng.com/).
 
 ## Функционал
